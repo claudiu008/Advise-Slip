@@ -1,7 +1,5 @@
 # Advice Slip
 
-![Design preview for the Advice Slip](./design/desktop-design.jpg)
-
 ## The challenge
 
 Your challenge is to build out this advice generator app using the [Advice Slip API](https://api.adviceslip.com) and get it looking as close to the [design](https://www.figma.com/file/wxwRWZfstpsPMpZTBHrL1n/Advice-Slip?node-id=0%3A1) as possible.
